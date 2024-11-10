@@ -1,6 +1,7 @@
-### Hi there 👋, I'm SE JIHAD
 #### Web Developer
 ![Banner Image](web-developer.png)
+
+### Hi there 👋, I'm SE JIHAD
 
 As a dedicated front-end web developer and WordPress customizer, I specialize in creating responsive, user-friendly websites that blend creativity with functionality. With a strong foundation in HTML, CSS, JavaScript, Bootstrap, and ReactJS, I build seamless digital experiences that engage users and drive results.
 
