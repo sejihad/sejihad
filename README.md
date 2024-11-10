@@ -21,5 +21,7 @@ Skills:  REACT / JS / HTML / CSS / BOOTSTRAP /WordPress(Basic)
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sejihad/contributions?format=svg&private=false)  
 
+![GitHub metrics](https://metrics.lecoq.io/sejihad)  
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sejihad)  
 
