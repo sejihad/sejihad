@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jihad Mia
 #### Web Developer
-![Web Developer](<img src="web-developer.png">)
+![Banner Image](web-developer.png)
 
 As a dedicated front-end web developer and WordPress customizer, I specialize in creating responsive, user-friendly websites that blend creativity with functionality. With a strong foundation in HTML, CSS, JavaScript, Bootstrap, and ReactJS, I build seamless digital experiences that engage users and drive results.
 
