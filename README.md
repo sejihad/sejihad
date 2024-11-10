@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jihad Mia
+### Hi there 👋, I'm SE JIHAD
 #### Web Developer
 ![Banner Image](web-developer.png)
 
