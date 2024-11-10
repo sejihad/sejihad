@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jihad Mia
 #### Web Developer
-![Web Developer](<img src="https://habrastorage.org/getpro/habr/upload_files/704/b82/949/704b82949bd620fbb82f7df29409ad72.jpeg" alt="Web Developer" width="30" height="30">)
+![Web Developer](<img src="web-developer.png">)
 
 As a dedicated front-end web developer and WordPress customizer, I specialize in creating responsive, user-friendly websites that blend creativity with functionality. With a strong foundation in HTML, CSS, JavaScript, Bootstrap, and ReactJS, I build seamless digital experiences that engage users and drive results.
 
