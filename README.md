@@ -3,9 +3,9 @@
 
 ### Hi there 👋, I'm SE JIHAD
 
-As a dedicated front-end web developer and WordPress customizer, I specialize in creating responsive, user-friendly websites that blend creativity with functionality. With a strong foundation in HTML, CSS, JavaScript, Bootstrap, and ReactJS, I build seamless digital experiences that engage users and drive results.
+As a dedicated front-end web developer and WordPress customizer, I specialize in creating responsive, user-friendly websites that blend creativity with functionality. With a strong foundation in MERN STACK, I build seamless digital experiences that engage users and drive results.
 
-Skills:  REACT / JS / HTML / CSS / BOOTSTRAP /WordPress(Basic)
+Skills:  REACT / NODE / MONGO / PHP / MY SQL / EXPRESS /  JS / HTML / CSS / BOOTSTRAP /WordPress(Basic)
 
 
 
