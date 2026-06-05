@@ -1,6 +1,6 @@
 # 👨‍💻 Full Stack Web Developer | MERN Stack Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=SE%20JIHAD&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20WordPress%20Customizer&descAlignY=58&descAlign=50" width="100%" />
+<img src="web-developer.png" width="100%" />
 
 ## 🚀 About Me
 
